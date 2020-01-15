@@ -2,35 +2,31 @@
     "courses": [
     {
         "id": 1,
-        "title": "React desde cero",
-        "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+        "title": "React",
+        "image": "https://cdn.auth0.com/blog/react-js/react.png",
         "price": 30,
-        "teacher": "Beto Quiroga",
-        "teacherAvatar": "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg"
+        "teacher": "Pedrito Torres"
     }, 
     {
         "id": 2,
-        "title": "Drupal desde cero",
-        "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/drupal-poster-720_3.jpg?itok=e93ErhMN",
+        "title": "Angular",
+        "image": "https://miro.medium.com/max/3492/1*P7x-_0XfQz6CVmMY_QAv0w.png",
         "price": 40,
-        "teacher": "Beto Quiroga",
-        "teacherAvatar": "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg"
+        "teacher": "Alex Gundyr"
     }, 
     {
         "id": 3,
-        "title": "Go desde cero",
-        "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/go_0.jpg?itok=k2amLhrN",
+        "title": "Vue",
+        "image": "https://adrianalonso.es/wp-content/uploads/2018/01/vue.jpg",
         "price": 20,
-        "teacher": "Alexys Lozada",
-        "teacherAvatar": "https://api.ed.team/files/avatars/747dea4d-4438-4a7e-904a-427a5cd6aac7.jpg"
+        "teacher": "Pedrito Torres"
     }, 
     {
         "id": 4,
-        "title": "PHP desde cero",
-        "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2018-10/php%20desde%20cero.jpg",
+        "title": "PHP",
+        "image": "https://ienrformacion.es/wp-content/uploads/2019/01/php-codigo-logo.jpg",
         "price": 50,
-        "teacher": "Yesi Days",
-        "teacherAvatar": "https://api.ed.team/files/avatars/77b7035b-3025-408c-aea0-22f6386c428e.jpg"
+        "teacher": "Angel Perez"
     }
 ]
 }
